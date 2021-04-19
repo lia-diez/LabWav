@@ -1,0 +1,36 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\asdLab4\\asdLab4\\asdLab4.csproj",
+    "projectName": "asdLab4",
+    "projectPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\asdLab4\\asdLab4\\asdLab4.csproj",
+    "outputPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\asdLab4\\asdLab4\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "net48"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "net48": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net48": {
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+    }
+  },
+  "runtimes": {
+    "win7-x86": {
+      "#import": []
+    }
+  }
+}
